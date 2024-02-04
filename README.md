@@ -1,5 +1,9 @@
 # DL-DataMining-AI
 
+![GitHub last commit](https://img.shields.io/github/last-commit/Yousefess/DL-DataMining-AI)
+![GitHub repo size](https://img.shields.io/github/repo-size/Yousefess/DL-DataMining-AI)
+![GitHub top language](https://img.shields.io/github/languages/top/Yousefess/DL-DataMining-AI)
+
 This repository contains the code for some courses I have passed in fields of Data Mining, Deep Learning and Artificial Intelligence in Python language. These courses are held by the [Khaje Nasir Toosi University (KNTU)](https://geomatics.kntu.ac.ir/) of Technology. The courses are as follows:
 
 1. Data Mining
