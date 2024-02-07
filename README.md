@@ -22,3 +22,5 @@ This repository contains the code for some courses I have passed in fields of Da
 ### Introduction to Deep Learning
 
 * [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2001): Introduction to Deep Learning
+
+* [Week 02](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2002): Introduction to Tensorflow
