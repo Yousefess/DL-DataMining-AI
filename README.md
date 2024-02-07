@@ -4,12 +4,14 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Yousefess/DL-DataMining-AI)
 ![GitHub top language](https://img.shields.io/github/languages/top/Yousefess/DL-DataMining-AI)
 
-This repository contains the code for some courses I have passed in fields of Data Mining, Deep Learning and Artificial Intelligence in Python language. These courses are held by the [Khaje Nasir Toosi University (KNTU)](https://geomatics.kntu.ac.ir/) of Technology. The courses are as follows:
+This repository contains the code for some courses I have passed in fields of Data Mining, Deep Learning and Artificial Intelligence in Python language. These courses are held by the [Khaje Nasir Toosi University (KNTU)](https://geomatics.kntu.ac.ir/) of Technology and [AIR CENTER](https://t.me/AIR_Center). The courses are as follows:
 
 1. Data Mining
 2. Introduction to Deep Learning
 3. Advanced Deep Learning
-4. Artificial Intelligence in Surveying Engineering
+4. Some Neural Network Architectures
+5. Complete Deep Learning Course
+6. Artificial Intelligence in Surveying Engineering
 
 ## Table of Contents
 
