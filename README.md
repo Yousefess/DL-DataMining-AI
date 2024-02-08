@@ -21,6 +21,8 @@ This repository contains the code for some courses I have passed in fields of Da
 
 * [Week 02](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2002): Association Rule
 
+* [Week 03](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2003): Machine Learning
+
 ### Introduction to Deep Learning
 
 * [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2001): Introduction to Deep Learning
