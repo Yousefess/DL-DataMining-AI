@@ -30,3 +30,5 @@ This repository contains the code for some courses I have passed in fields of Da
 - [Week 02](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2002): Introduction to Tensorflow
 
 - [Week 03](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2003): Binary classification and gradient descent
+
+- [Week 04](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2004): Keras & Multi-class classification & MNIST
