@@ -23,6 +23,8 @@ This repository contains the code for some courses I have passed in fields of Da
 
 - [Week 03](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2003): Machine Learning
 
+- [Week 04](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2004): Neural Network
+
 ### Introduction to Deep Learning
 
 - [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2001): Introduction to Deep Learning
