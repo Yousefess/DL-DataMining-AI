@@ -14,7 +14,7 @@ This repository contains the code for some courses I have passed in fields of Da
 
 ## Table of Contents
 
-### [01 Data Mining](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining)
+### [<h3 style="color: skyblue">01 Data Mining</h3>](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining)
 
 - [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2001): Data Preparation
 
@@ -28,7 +28,7 @@ This repository contains the code for some courses I have passed in fields of Da
 
 - [Week 06](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2006): KNN & K-Means & Text Mining
 
-### [02 Introduction to Deep Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning)
+### [<h3 style="color: skyblue">02 Introduction to Deep Learning</h3>](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning)
 
 - [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2001): Introduction to Deep Learning
 
@@ -42,6 +42,6 @@ This repository contains the code for some courses I have passed in fields of Da
 
 - [Week 06](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2006): Hyperparameter Tuning & Imbalance Dataset
 
-### [03 Advanced Deep Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning)
+### [<h3 style="color: skyblue">03 Advanced Deep Learning</h3>](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning)
 
 - [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2001): Recap & MNIST functional & CNN Theory
