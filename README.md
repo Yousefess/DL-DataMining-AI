@@ -9,13 +9,12 @@ This repository contains the code for some courses I have passed in fields of Da
 1. Data Mining
 2. Introduction to Deep Learning
 3. Advanced Deep Learning
-4. Some Neural Network Architectures
-5. Complete Deep Learning Course
-6. Artificial Intelligence in Surveying Engineering
+4. Complete Deep Learning Course
+5. Artificial Intelligence in Surveying Engineering
 
 ## Table of Contents
 
-### Data Mining
+### [01 Data Mining](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining)
 
 - [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2001): Data Preparation
 
@@ -29,7 +28,7 @@ This repository contains the code for some courses I have passed in fields of Da
 
 - [Week 06](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2006): KNN & K-Means & Text Mining
 
-### Introduction to Deep Learning
+### [02 Introduction to Deep Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning)
 
 - [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2001): Introduction to Deep Learning
 
@@ -42,3 +41,7 @@ This repository contains the code for some courses I have passed in fields of Da
 - [Week 05](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2005): Regularization & Dropout
 
 - [Week 06](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2006): Hyperparameter Tuning & Imbalance Dataset
+
+### [03 Advanced Deep Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning)
+
+- [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2001): Recap & MNIST functional & CNN Theory
