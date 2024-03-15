@@ -16,56 +16,44 @@ This repository contains the code for some courses I have passed in fields of Da
 
 ### [01 Data Mining](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining)
 
-- [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2001): Data Preparation
-
-- [Week 02](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2002): Association Rule
-
-- [Week 03](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2003): Machine Learning
-
-- [Week 04](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2004): Neural Network
-
-- [Week 05](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2005): Hyperparameter Tuning
-
-- [Week 06](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2006): KNN & K-Means & Text Mining
+| Weeks | Topics |
+| :---: | :--------: |
+| 01 | [Data Preparation](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2001) |
+| 02 | [Association Rule](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2002) |
+| 03 | [Machine Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2003) |
+| 04 | [Neural Network](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2004) |
+| 05 | [Hyperparameter Tuning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2005) |
+| 06 | [KNN & K-Means & Text Mining](https://github.com/Yousefess/DL-DataMining-AI/tree/main/01%20Data%20Mining/Week%2006) |
 
 ### [02 Introduction to Deep Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning)
 
-- [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2001): Introduction to Deep Learning
-
-- [Week 02](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2002): Introduction to Tensorflow
-
-- [Week 03](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2003): Binary classification and gradient descent
-
-- [Week 04](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2004): Keras & Multi-class classification & MNIST
-
-- [Week 05](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2005): Regularization & Dropout
-
-- [Week 06](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2006): Hyperparameter Tuning & Imbalance Dataset
+| Weeks | Topics |
+| :---: | :--------: |
+| 01 | [Introduction to Deep Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2001) |
+| 02 | [Introduction to Tensorflow](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2002) |
+| 03 | [Binary classification and gradient descent](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2003) |
+| 04 | [Keras & Multi-class classification & MNIST](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2004) |
+| 05 | [Regularization & Dropout](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2005) |
+| 06 | [Hyperparameter Tuning & Imbalance Dataset](https://github.com/Yousefess/DL-DataMining-AI/tree/main/02%20Introduction%20to%20Deep%20Learning/Week%2006) |
 
 ### [03 Advanced Deep Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning)
 
-- [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2001): Recap & MNIST functional & CNN Theory
-
-- [Week 02](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2002): CNN + resnet Theory and Code
-
-- [Week 03](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2003): Preprocessing & Data Augmentation
-
-- [Week 04](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2004): Visualization & Transfer Learning
-
-- [Week 05](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2005): GAN & Dcgan
-
-- [Week 06](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2006): RNN & LSTM
-
-- [Week 07](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2007): Word Embedding & Text Generation
-
-- [Week 08](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2008): Policy Gradient & Pendulum
-
-- [Week 09](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2009): Deep Dream & Style Transfer
+| Weeks | Topics |
+| :---: | :--------: |
+| 01 | [Recap & MNIST functional & CNN Theory](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2001) |
+| 02 | [CNN + resnet Theory and Code](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2002) |
+| 03 | [Preprocessing & Data Augmentation](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2003) |
+| 04 | [Visualization & Transfer Learning](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2004) |
+| 05 | [GAN & Dcgan](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2005) |
+| 06 | [RNN & LSTM](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2006) |
+| 07 | [Word Embedding & Text Generation](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2007) |
+| 08 | [Policy Gradient & Pendulum](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2008) |
+| 09 | [Deep Dream & Style Transfer](https://github.com/Yousefess/DL-DataMining-AI/tree/main/03%20Advance%20Deep%20Learning/Week%2009) |
 
 ### [04 Complete Deep Learning Course](https://github.com/Yousefess/DL-DataMining-AI/tree/main/04%20Complete%20Deep%20Learning%20Course)
 
-- [Week 01](https://github.com/Yousefess/DL-DataMining-AI/tree/main/04%20Complete%20Deep%20Learning%20Course/Week%2001): Churn Modeling ANN
-
-- [Week 02](https://github.com/Yousefess/DL-DataMining-AI/tree/main/04%20Complete%20Deep%20Learning%20Course/Week%2002): MNIST Basic
-
-- [Week 03](https://github.com/Yousefess/DL-DataMining-AI/tree/main/04%20Complete%20Deep%20Learning%20Course/Week%2003): MNIST - CNN
+| Weeks | Topics |
+| :---: | :--------: |
+| 01 | [Churn Modeling ANN](https://github.com/Yousefess/DL-DataMining-AI/tree/main/04%20Complete%20Deep%20Learning%20Course/Week%2001) |
+| 02 | [MNIST Basic](https://github.com/Yousefess/DL-DataMining-AI/tree/main/04%20Complete%20Deep%20Learning%20Course/Week%2002) |
+| 03 | [MNIST - CNN](https://github.com/Yousefess/DL-DataMining-AI/tree/main/04%20Complete%20Deep%20Learning%20Course/Week%2003) |
